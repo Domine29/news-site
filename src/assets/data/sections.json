@@ -1,0 +1,26 @@
+[
+  {
+    "label": "new"
+  },
+  {
+    "label": "past"
+  },
+  {
+    "label": "comments",
+    "tag": "comment"
+  },
+  {
+    "label": "ask",
+    "tag": "ask_hn"
+  },
+  {
+    "label": "show",
+    "tag": "show_hn"
+  },
+  {
+    "label": "jobs"
+  },
+  {
+    "label": "submit"
+  }
+]
